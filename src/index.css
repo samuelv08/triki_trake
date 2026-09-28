@@ -1,0 +1,14 @@
+:root {
+  --ink: #191b3a;
+  --paper: #f6f7fb;
+  --line: #e2e5f1;
+  --muted: #5b6080;
+  --x: #2f5bff;
+  --o: #ff9f1c;
+  --bs-body-font-family: 'Sora', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --bs-primary: var(--x);
+  --bs-primary-rgb: 47, 91, 255;
+}
+
+html, body { margin: 0; background: var(--ink); color: var(--ink); overflow-x: hidden; }
+* { box-sizing: border-box; }
